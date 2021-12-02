@@ -1,8 +1,8 @@
 public class Hello {
 
     public String method(){
-        while (1<2){
-dsddfdfdf
+        whiled (1<2){
+dsddfdfdfdsdsds
         }
         return null;
     }
